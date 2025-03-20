@@ -17,5 +17,5 @@ SixPicks randomly selects images.
 ### 3. Export Final Dump
 The user exports the final collage.
 
-<img src="docs/screenshots/Photo-4.PNG" width="300">
+<img src="/screenshots/Photo-4.PNG" width="300">
 
