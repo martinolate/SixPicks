@@ -1,0 +1,7 @@
+# Ignore Xcode files
+*.xcuserstate
+*.xcworkspace
+*.DS_Store
+build/
+DerivedData/
+
