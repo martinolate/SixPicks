@@ -2,7 +2,7 @@
 
 
 ### Home Screen
-<img src="/screenshots/Photo-3.PNG" width="300">
+<img src="/screenshots/Photo-2.PNG" width="300">
 
 ### 1. Select Month
 The user selects a month to generate a photo dump.
