@@ -260,9 +260,11 @@ struct ContentView: View {
                     if let image = image {
                         DispatchQueue.main.async {
                             newSelectedPhotos.append(image)
+                            group.leave()
                         }
+                    } else {
+                        group.leave()
                     }
-                    group.leave()
                 }
             }
             
